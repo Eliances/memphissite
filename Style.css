@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
 * {
-    margin: 0;
+    margin: 50;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
@@ -8,4 +10,20 @@
 body {
     font-size: 100%;
     background: linear-gradient(68.15deg, #2ad4ff 16.62%, #b0efff 85.61%);
+}
+
+.homepesquisa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 400px;
+}
+
+.homepesquisa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 400px;
 }
