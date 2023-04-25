@@ -12,18 +12,26 @@ body {
     background: linear-gradient(68.15deg, #2ad4ff 16.62%, #b0efff 85.61%);
 }
 
-.homepesquisa {
+.topcontatos {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: center;
-    padding: 400px;
+    justify-content:space-around;
+    padding: 40px;
 }
 
 .homepesquisa {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    justify-content: center;
-    padding: 400px;
+    justify-content:space-around;
+    padding: 40px;
+}
+
+.menutopicos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    padding: 40px;
 }
