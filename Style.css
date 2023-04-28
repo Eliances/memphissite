@@ -17,7 +17,8 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content:space-around;
-    padding: 40px;
+    padding: 10px;
+    background: linear-gradient(68.15deg, #0cceff 16.62%, #85e7ff 85.61%);
 }
 
 .homepesquisa {
@@ -25,7 +26,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content:space-around;
-    padding: 40px;
+    padding: 10px;
 }
 
 .menutopicos {
@@ -34,7 +35,39 @@ body {
     align-items: center;
     justify-content:space-around;
     padding: 40px;
+    background: linear-gradient(68.15deg, #d6f7ff 16.62%, #d6f7ff 85.61%);
 }
+
+.destaques{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background: linear-gradient(68.15deg, #d6f7ff 16.62%, #d6f7ff 85.61%);
+}
+
+.destaque1{
+    height: 250px;
+    width: 180px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    background: linear-gradient(68.15deg, #0cceff 16.62%, #85e7ff 85.61%);
+}
+
+.destaque2{
+    height: 250px;
+    width: 180px;
+    margin-left: 10px;
+    text-align: center;
+    display:flex;
+    align-items: flex-end;
+    background: linear-gradient(68.15deg, #dfdfdf 16.62%, #ffffff 85.61%);
+}
+
+
+
 
 /*.mainSenador{
     display: flex;
