@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
 
 * {
-    margin: 50;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
@@ -35,3 +35,10 @@ body {
     justify-content:space-around;
     padding: 40px;
 }
+
+/*.mainSenador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}*/
